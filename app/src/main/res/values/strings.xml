@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryGuesser</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="classic">Classic</string>
+    <string name="discover">Discover</string>
+    <string name="undefined">Undefined</string>
+    <string name="play">Play</string>
+    <string name="country_name">Country Name</string>
+</resources>

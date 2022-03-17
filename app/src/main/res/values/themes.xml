@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CountryGuesser" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Orange</item>
+        <item name="colorPrimaryVariant">@color/Yellow</item>
+        <item name="colorOnPrimary">@color/lBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Teal</item>
+        <item name="colorSecondaryVariant">@color/Turq</item>
+        <item name="colorOnSecondary">@color/teal_200</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
